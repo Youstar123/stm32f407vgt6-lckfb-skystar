@@ -264,7 +264,7 @@
 
 /* CMSIS: ARM Cortex-M Microcontroller Software Interface Standard */
 
-#define PKG_USING_CMSIS_CORE
+//#define PKG_USING_CMSIS_CORE
 #define PKG_USING_CMSIS_CORE_LATEST_VERSION
 /* end of CMSIS: ARM Cortex-M Microcontroller Software Interface Standard */
 
