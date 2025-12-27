@@ -1,0 +1,132 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rtthread",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_Compiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_Compiler-18ed81c786cf6ee995d8.json",
+					"name" : "rtt_Compiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_DeviceDrivers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_DeviceDrivers-a7e114f3ba5b7c10ad7f.json",
+					"name" : "rtt_DeviceDrivers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_Drivers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_Drivers-2d01143210731d0e5380.json",
+					"name" : "rtt_Drivers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_Finsh::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_Finsh-3a0b52179e022d04299e.json",
+					"name" : "rtt_Finsh",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_Kernel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_Kernel-f674af89fc0de3cfa758.json",
+					"name" : "rtt_Kernel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_Libraries::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_Libraries-bd9868bf47e9f00723ee.json",
+					"name" : "rtt_Libraries",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_klibc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_klibc-291568419eff73c4cfd2.json",
+					"name" : "rtt_klibc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtt_libcpu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtt_libcpu-dfb8a75d39b072a804f5.json",
+					"name" : "rtt_libcpu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rtthread.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rtthread.elf-1fc2aadd2a1a96e15d79.json",
+					"name" : "rtthread.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/RT-Thread/rt-thread/bsp/stm32/stm32f407vgt6/cmake-build-debug",
+		"source" : "E:/RT-Thread/rt-thread/bsp/stm32/stm32f407vgt6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
